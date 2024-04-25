@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Downloads\Etapa1\7_Ibarra_AlReves\7_Ibarra_AlReves\7_Ibarra_AlReves\bin\Debug\7_Ibarra_AlReves.exe.config
-C:\Users\alumno.ET37\Downloads\Etapa1\7_Ibarra_AlReves\7_Ibarra_AlReves\7_Ibarra_AlReves\bin\Debug\7_Ibarra_AlReves.exe
-C:\Users\alumno.ET37\Downloads\Etapa1\7_Ibarra_AlReves\7_Ibarra_AlReves\7_Ibarra_AlReves\bin\Debug\7_Ibarra_AlReves.pdb
-C:\Users\alumno.ET37\Downloads\Etapa1\7_Ibarra_AlReves\7_Ibarra_AlReves\7_Ibarra_AlReves\obj\Debug\7_Ibarra_AlReves.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Downloads\Etapa1\7_Ibarra_AlReves\7_Ibarra_AlReves\7_Ibarra_AlReves\obj\Debug\7_Ibarra_AlReves.exe
-C:\Users\alumno.ET37\Downloads\Etapa1\7_Ibarra_AlReves\7_Ibarra_AlReves\7_Ibarra_AlReves\obj\Debug\7_Ibarra_AlReves.pdb
