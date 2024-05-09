@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Marque2024\Estapa0\0_Marque_HolaMundo\0_Marque_HolaMundo\bin\Debug\0_Marque_HolaMundo.exe.config
+C:\Users\alumno.ET37\Downloads\Marque2024\Estapa0\0_Marque_HolaMundo\0_Marque_HolaMundo\bin\Debug\0_Marque_HolaMundo.exe
+C:\Users\alumno.ET37\Downloads\Marque2024\Estapa0\0_Marque_HolaMundo\0_Marque_HolaMundo\bin\Debug\0_Marque_HolaMundo.pdb
+C:\Users\alumno.ET37\Downloads\Marque2024\Estapa0\0_Marque_HolaMundo\0_Marque_HolaMundo\obj\Debug\0_Marque_HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Marque2024\Estapa0\0_Marque_HolaMundo\0_Marque_HolaMundo\obj\Debug\0_Marque_HolaMundo.exe
+C:\Users\alumno.ET37\Downloads\Marque2024\Estapa0\0_Marque_HolaMundo\0_Marque_HolaMundo\obj\Debug\0_Marque_HolaMundo.pdb

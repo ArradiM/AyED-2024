@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Marque2024\Estapa0\1_Marque_HolaNombre\1_Marque_HolaNombre\bin\Debug\1_Marque_HolaNombre.exe.config
+C:\Users\alumno.ET37\Downloads\Marque2024\Estapa0\1_Marque_HolaNombre\1_Marque_HolaNombre\bin\Debug\1_Marque_HolaNombre.exe
+C:\Users\alumno.ET37\Downloads\Marque2024\Estapa0\1_Marque_HolaNombre\1_Marque_HolaNombre\bin\Debug\1_Marque_HolaNombre.pdb
+C:\Users\alumno.ET37\Downloads\Marque2024\Estapa0\1_Marque_HolaNombre\1_Marque_HolaNombre\obj\Debug\1_Marque_HolaNombre.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Marque2024\Estapa0\1_Marque_HolaNombre\1_Marque_HolaNombre\obj\Debug\1_Marque_HolaNombre.exe
+C:\Users\alumno.ET37\Downloads\Marque2024\Estapa0\1_Marque_HolaNombre\1_Marque_HolaNombre\obj\Debug\1_Marque_HolaNombre.pdb
