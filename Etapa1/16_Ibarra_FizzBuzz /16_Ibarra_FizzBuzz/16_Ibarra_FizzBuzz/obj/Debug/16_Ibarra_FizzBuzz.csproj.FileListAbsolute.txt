@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Etapa1\16_Ibarra_FizzBuzz\16_Ibarra_FizzBuzz\16_Ibarra_FizzBuzz\bin\Debug\16_Ibarra_FizzBuzz.exe.config
+C:\Users\alumno.ET37\Downloads\Etapa1\16_Ibarra_FizzBuzz\16_Ibarra_FizzBuzz\16_Ibarra_FizzBuzz\obj\Debug\16_Ibarra_FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Etapa1\16_Ibarra_FizzBuzz\16_Ibarra_FizzBuzz\16_Ibarra_FizzBuzz\bin\Debug\16_Ibarra_FizzBuzz.exe
+C:\Users\alumno.ET37\Downloads\Etapa1\16_Ibarra_FizzBuzz\16_Ibarra_FizzBuzz\16_Ibarra_FizzBuzz\bin\Debug\16_Ibarra_FizzBuzz.pdb
+C:\Users\alumno.ET37\Downloads\Etapa1\16_Ibarra_FizzBuzz\16_Ibarra_FizzBuzz\16_Ibarra_FizzBuzz\obj\Debug\16_Ibarra_FizzBuzz.exe
+C:\Users\alumno.ET37\Downloads\Etapa1\16_Ibarra_FizzBuzz\16_Ibarra_FizzBuzz\16_Ibarra_FizzBuzz\obj\Debug\16_Ibarra_FizzBuzz.pdb
