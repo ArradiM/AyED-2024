@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Etapa2\1_Ibarra_LaFiestaDeStitch\1_Ibarra_LaFiestaDeStitch\1_Ibarra_LaFiestaDeStitch\bin\Debug\1_Ibarra_LaFiestaDeStitch.exe.config
+C:\Users\alumno.ET37\Downloads\Etapa2\1_Ibarra_LaFiestaDeStitch\1_Ibarra_LaFiestaDeStitch\1_Ibarra_LaFiestaDeStitch\bin\Debug\1_Ibarra_LaFiestaDeStitch.exe
+C:\Users\alumno.ET37\Downloads\Etapa2\1_Ibarra_LaFiestaDeStitch\1_Ibarra_LaFiestaDeStitch\1_Ibarra_LaFiestaDeStitch\bin\Debug\1_Ibarra_LaFiestaDeStitch.pdb
+C:\Users\alumno.ET37\Downloads\Etapa2\1_Ibarra_LaFiestaDeStitch\1_Ibarra_LaFiestaDeStitch\1_Ibarra_LaFiestaDeStitch\obj\Debug\1_Ibarra_LaFiestaDeStitch.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Etapa2\1_Ibarra_LaFiestaDeStitch\1_Ibarra_LaFiestaDeStitch\1_Ibarra_LaFiestaDeStitch\obj\Debug\1_Ibarra_LaFiestaDeStitch.exe
+C:\Users\alumno.ET37\Downloads\Etapa2\1_Ibarra_LaFiestaDeStitch\1_Ibarra_LaFiestaDeStitch\1_Ibarra_LaFiestaDeStitch\obj\Debug\1_Ibarra_LaFiestaDeStitch.pdb
