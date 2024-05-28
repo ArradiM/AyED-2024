@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Etapa2\0_Ibarra_LaCarreraDeHomero\0_Ibarra_LaCarreraDeHomero\0_Ibarra_LaCarreraDeHomero\bin\Debug\0_Ibarra_LaCarreraDeHomero.exe.config
+C:\Users\alumno.ET37\Downloads\Etapa2\0_Ibarra_LaCarreraDeHomero\0_Ibarra_LaCarreraDeHomero\0_Ibarra_LaCarreraDeHomero\bin\Debug\0_Ibarra_LaCarreraDeHomero.exe
+C:\Users\alumno.ET37\Downloads\Etapa2\0_Ibarra_LaCarreraDeHomero\0_Ibarra_LaCarreraDeHomero\0_Ibarra_LaCarreraDeHomero\bin\Debug\0_Ibarra_LaCarreraDeHomero.pdb
+C:\Users\alumno.ET37\Downloads\Etapa2\0_Ibarra_LaCarreraDeHomero\0_Ibarra_LaCarreraDeHomero\0_Ibarra_LaCarreraDeHomero\obj\Debug\0_Ibarra_LaCarreraDeHomero.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Etapa2\0_Ibarra_LaCarreraDeHomero\0_Ibarra_LaCarreraDeHomero\0_Ibarra_LaCarreraDeHomero\obj\Debug\0_Ibarra_LaCarreraDeHomero.exe
+C:\Users\alumno.ET37\Downloads\Etapa2\0_Ibarra_LaCarreraDeHomero\0_Ibarra_LaCarreraDeHomero\0_Ibarra_LaCarreraDeHomero\obj\Debug\0_Ibarra_LaCarreraDeHomero.pdb
