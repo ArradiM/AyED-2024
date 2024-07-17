@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/bin/Debug/net7.0/6_Ibarra_ZEGARPG
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/bin/Debug/net7.0/6_Ibarra_ZEGARPG.deps.json
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/bin/Debug/net7.0/6_Ibarra_ZEGARPG.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/bin/Debug/net7.0/6_Ibarra_ZEGARPG.dll
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/bin/Debug/net7.0/6_Ibarra_ZEGARPG.pdb
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/obj/Debug/net7.0/6_Ibarra_ZEGARPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/obj/Debug/net7.0/6_Ibarra_ZEGARPG.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/obj/Debug/net7.0/6_Ibarra_ZEGARPG.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/obj/Debug/net7.0/6_Ibarra_ZEGARPG.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/obj/Debug/net7.0/6_Ibarra_ZEGARPG.dll
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/obj/Debug/net7.0/refint/6_Ibarra_ZEGARPG.dll
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/obj/Debug/net7.0/6_Ibarra_ZEGARPG.pdb
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/obj/Debug/net7.0/6_Ibarra_ZEGARPG.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa2/6_Ibarra_ZEGARPG/obj/Debug/net7.0/ref/6_Ibarra_ZEGARPG.dll

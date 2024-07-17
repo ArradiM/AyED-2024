@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/bin/Debug/net7.0/5_Ibarra_HotSale
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/bin/Debug/net7.0/5_Ibarra_HotSale.deps.json
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/bin/Debug/net7.0/5_Ibarra_HotSale.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/bin/Debug/net7.0/5_Ibarra_HotSale.dll
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/bin/Debug/net7.0/5_Ibarra_HotSale.pdb
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/obj/Debug/net7.0/5_Ibarra_HotSale.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/obj/Debug/net7.0/5_Ibarra_HotSale.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/obj/Debug/net7.0/5_Ibarra_HotSale.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/obj/Debug/net7.0/5_Ibarra_HotSale.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/obj/Debug/net7.0/5_Ibarra_HotSale.dll
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/obj/Debug/net7.0/refint/5_Ibarra_HotSale.dll
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/obj/Debug/net7.0/5_Ibarra_HotSale.pdb
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/obj/Debug/net7.0/5_Ibarra_HotSale.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa2/5_Ibarra_HotSale/obj/Debug/net7.0/ref/5_Ibarra_HotSale.dll
