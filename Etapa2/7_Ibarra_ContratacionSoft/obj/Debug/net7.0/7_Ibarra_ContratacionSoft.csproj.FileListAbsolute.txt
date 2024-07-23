@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/bin/Debug/net7.0/7_Ibarra_ContratacionSoft
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/bin/Debug/net7.0/7_Ibarra_ContratacionSoft.deps.json
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/bin/Debug/net7.0/7_Ibarra_ContratacionSoft.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/bin/Debug/net7.0/7_Ibarra_ContratacionSoft.dll
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/bin/Debug/net7.0/7_Ibarra_ContratacionSoft.pdb
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/obj/Debug/net7.0/7_Ibarra_ContratacionSoft.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/obj/Debug/net7.0/7_Ibarra_ContratacionSoft.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/obj/Debug/net7.0/7_Ibarra_ContratacionSoft.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/obj/Debug/net7.0/7_Ibarra_ContratacionSoft.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/obj/Debug/net7.0/7_Ibarra_ContratacionSoft.dll
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/obj/Debug/net7.0/refint/7_Ibarra_ContratacionSoft.dll
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/obj/Debug/net7.0/7_Ibarra_ContratacionSoft.pdb
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/obj/Debug/net7.0/7_Ibarra_ContratacionSoft.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa2/7_Ibarra_ContratacionSoft/obj/Debug/net7.0/ref/7_Ibarra_ContratacionSoft.dll

@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/bin/Debug/net7.0/3_Ibarra_VueltaAClases
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/bin/Debug/net7.0/3_Ibarra_VueltaAClases.deps.json
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/bin/Debug/net7.0/3_Ibarra_VueltaAClases.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/bin/Debug/net7.0/3_Ibarra_VueltaAClases.dll
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/bin/Debug/net7.0/3_Ibarra_VueltaAClases.pdb
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/obj/Debug/net7.0/3_Ibarra_VueltaAClases.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/obj/Debug/net7.0/3_Ibarra_VueltaAClases.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/obj/Debug/net7.0/3_Ibarra_VueltaAClases.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/obj/Debug/net7.0/3_Ibarra_VueltaAClases.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/obj/Debug/net7.0/3_Ibarra_VueltaAClases.dll
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/obj/Debug/net7.0/refint/3_Ibarra_VueltaAClases.dll
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/obj/Debug/net7.0/3_Ibarra_VueltaAClases.pdb
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/obj/Debug/net7.0/3_Ibarra_VueltaAClases.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa2/3_Ibarra_VueltaAClases/obj/Debug/net7.0/ref/3_Ibarra_VueltaAClases.dll
