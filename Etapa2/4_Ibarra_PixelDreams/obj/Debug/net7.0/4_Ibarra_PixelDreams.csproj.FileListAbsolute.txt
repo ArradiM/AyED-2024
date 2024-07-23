@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/bin/Debug/net7.0/4_Ibarra_PixelDreams
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/bin/Debug/net7.0/4_Ibarra_PixelDreams.deps.json
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/bin/Debug/net7.0/4_Ibarra_PixelDreams.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/bin/Debug/net7.0/4_Ibarra_PixelDreams.dll
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/bin/Debug/net7.0/4_Ibarra_PixelDreams.pdb
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/obj/Debug/net7.0/4_Ibarra_PixelDreams.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/obj/Debug/net7.0/4_Ibarra_PixelDreams.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/obj/Debug/net7.0/4_Ibarra_PixelDreams.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/obj/Debug/net7.0/4_Ibarra_PixelDreams.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/obj/Debug/net7.0/4_Ibarra_PixelDreams.dll
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/obj/Debug/net7.0/refint/4_Ibarra_PixelDreams.dll
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/obj/Debug/net7.0/4_Ibarra_PixelDreams.pdb
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/obj/Debug/net7.0/4_Ibarra_PixelDreams.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa2/4_Ibarra_PixelDreams/obj/Debug/net7.0/ref/4_Ibarra_PixelDreams.dll
