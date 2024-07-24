@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/bin/Debug/net7.0/10_Ibarra_MatrizAleatoria
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/bin/Debug/net7.0/10_Ibarra_MatrizAleatoria.deps.json
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/bin/Debug/net7.0/10_Ibarra_MatrizAleatoria.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/bin/Debug/net7.0/10_Ibarra_MatrizAleatoria.dll
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/bin/Debug/net7.0/10_Ibarra_MatrizAleatoria.pdb
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/obj/Debug/net7.0/10_Ibarra_MatrizAleatoria.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/obj/Debug/net7.0/10_Ibarra_MatrizAleatoria.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/obj/Debug/net7.0/10_Ibarra_MatrizAleatoria.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/obj/Debug/net7.0/10_Ibarra_MatrizAleatoria.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/obj/Debug/net7.0/10_Ibarra_MatrizAleatoria.dll
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/obj/Debug/net7.0/refint/10_Ibarra_MatrizAleatoria.dll
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/obj/Debug/net7.0/10_Ibarra_MatrizAleatoria.pdb
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/obj/Debug/net7.0/10_Ibarra_MatrizAleatoria.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/obj/Debug/net7.0/ref/10_Ibarra_MatrizAleatoria.dll

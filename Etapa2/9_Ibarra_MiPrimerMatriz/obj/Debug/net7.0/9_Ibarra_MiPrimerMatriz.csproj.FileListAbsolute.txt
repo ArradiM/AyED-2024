@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/bin/Debug/net7.0/9_Ibarra_MiPrimerMatriz
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/bin/Debug/net7.0/9_Ibarra_MiPrimerMatriz.deps.json
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/bin/Debug/net7.0/9_Ibarra_MiPrimerMatriz.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/bin/Debug/net7.0/9_Ibarra_MiPrimerMatriz.dll
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/bin/Debug/net7.0/9_Ibarra_MiPrimerMatriz.pdb
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/obj/Debug/net7.0/9_Ibarra_MiPrimerMatriz.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/obj/Debug/net7.0/9_Ibarra_MiPrimerMatriz.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/obj/Debug/net7.0/9_Ibarra_MiPrimerMatriz.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/obj/Debug/net7.0/9_Ibarra_MiPrimerMatriz.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/obj/Debug/net7.0/9_Ibarra_MiPrimerMatriz.dll
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/obj/Debug/net7.0/refint/9_Ibarra_MiPrimerMatriz.dll
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/obj/Debug/net7.0/9_Ibarra_MiPrimerMatriz.pdb
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/obj/Debug/net7.0/9_Ibarra_MiPrimerMatriz.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa2/9_Ibarra_MiPrimerMatriz/obj/Debug/net7.0/ref/9_Ibarra_MiPrimerMatriz.dll

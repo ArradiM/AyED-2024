@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/home/estudiante/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/10_Ibarra_MatrizAleatoria.csproj",
+      "projectName": "10_Ibarra_MatrizAleatoria",
+      "projectPath": "/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/10_Ibarra_MatrizAleatoria.csproj",
+      "packagesPath": "/home/estudiante/.nuget/packages/",
+      "outputPath": "/home/estudiante/Escritorio/Etapa2/10_Ibarra_MatrizAleatoria/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/estudiante/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

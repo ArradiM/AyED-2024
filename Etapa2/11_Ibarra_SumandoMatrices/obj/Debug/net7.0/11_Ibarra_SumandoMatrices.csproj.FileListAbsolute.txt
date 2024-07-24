@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/bin/Debug/net7.0/11_Ibarra_SumandoMatrices
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/bin/Debug/net7.0/11_Ibarra_SumandoMatrices.deps.json
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/bin/Debug/net7.0/11_Ibarra_SumandoMatrices.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/bin/Debug/net7.0/11_Ibarra_SumandoMatrices.dll
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/bin/Debug/net7.0/11_Ibarra_SumandoMatrices.pdb
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/obj/Debug/net7.0/11_Ibarra_SumandoMatrices.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/obj/Debug/net7.0/11_Ibarra_SumandoMatrices.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/obj/Debug/net7.0/11_Ibarra_SumandoMatrices.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/obj/Debug/net7.0/11_Ibarra_SumandoMatrices.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/obj/Debug/net7.0/11_Ibarra_SumandoMatrices.dll
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/obj/Debug/net7.0/refint/11_Ibarra_SumandoMatrices.dll
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/obj/Debug/net7.0/11_Ibarra_SumandoMatrices.pdb
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/obj/Debug/net7.0/11_Ibarra_SumandoMatrices.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa2/11_Ibarra_SumandoMatrices/obj/Debug/net7.0/ref/11_Ibarra_SumandoMatrices.dll
