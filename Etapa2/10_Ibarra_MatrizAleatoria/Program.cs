@@ -17,8 +17,8 @@ class Program
         
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                int opcion = aleatorio.Next(1, 100);
-                matriz[i,j]=opcion;
+                matriz[i,j = aleatorio.Next(1, 100);
+                
             }
         }
 
