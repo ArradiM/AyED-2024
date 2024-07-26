@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/bin/Debug/net7.0/8_Ibarra_VectorRandomSwitch
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/bin/Debug/net7.0/8_Ibarra_VectorRandomSwitch.deps.json
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/bin/Debug/net7.0/8_Ibarra_VectorRandomSwitch.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/bin/Debug/net7.0/8_Ibarra_VectorRandomSwitch.dll
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/bin/Debug/net7.0/8_Ibarra_VectorRandomSwitch.pdb
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/obj/Debug/net7.0/8_Ibarra_VectorRandomSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/obj/Debug/net7.0/8_Ibarra_VectorRandomSwitch.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/obj/Debug/net7.0/8_Ibarra_VectorRandomSwitch.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/obj/Debug/net7.0/8_Ibarra_VectorRandomSwitch.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/obj/Debug/net7.0/8_Ibarra_VectorRandomSwitch.dll
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/obj/Debug/net7.0/refint/8_Ibarra_VectorRandomSwitch.dll
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/obj/Debug/net7.0/8_Ibarra_VectorRandomSwitch.pdb
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/obj/Debug/net7.0/8_Ibarra_VectorRandomSwitch.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa2/8_Ibarra_VectorRandomSwitch/obj/Debug/net7.0/ref/8_Ibarra_VectorRandomSwitch.dll

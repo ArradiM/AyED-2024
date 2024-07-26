@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/bin/Debug/net7.0/14_Ibarra_CalificacionesEstudiantiles
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/bin/Debug/net7.0/14_Ibarra_CalificacionesEstudiantiles.deps.json
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/bin/Debug/net7.0/14_Ibarra_CalificacionesEstudiantiles.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/bin/Debug/net7.0/14_Ibarra_CalificacionesEstudiantiles.dll
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/bin/Debug/net7.0/14_Ibarra_CalificacionesEstudiantiles.pdb
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/obj/Debug/net7.0/14_Ibarra_CalificacionesEstudiantiles.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/obj/Debug/net7.0/14_Ibarra_CalificacionesEstudiantiles.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/obj/Debug/net7.0/14_Ibarra_CalificacionesEstudiantiles.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/obj/Debug/net7.0/14_Ibarra_CalificacionesEstudiantiles.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/obj/Debug/net7.0/14_Ibarra_CalificacionesEstudiantiles.dll
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/obj/Debug/net7.0/refint/14_Ibarra_CalificacionesEstudiantiles.dll
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/obj/Debug/net7.0/14_Ibarra_CalificacionesEstudiantiles.pdb
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/obj/Debug/net7.0/14_Ibarra_CalificacionesEstudiantiles.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa2/14_Ibarra_CalificacionesEstudiantiles/obj/Debug/net7.0/ref/14_Ibarra_CalificacionesEstudiantiles.dll

@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/obj/Debug/net7.0/13_Ibarra_ObtenerDiagonalPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/obj/Debug/net7.0/13_Ibarra_ObtenerDiagonalPrincipal.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/obj/Debug/net7.0/13_Ibarra_ObtenerDiagonalPrincipal.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/obj/Debug/net7.0/13_Ibarra_ObtenerDiagonalPrincipal.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/bin/Debug/net7.0/13_Ibarra_ObtenerDiagonalPrincipal
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/bin/Debug/net7.0/13_Ibarra_ObtenerDiagonalPrincipal.deps.json
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/bin/Debug/net7.0/13_Ibarra_ObtenerDiagonalPrincipal.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/bin/Debug/net7.0/13_Ibarra_ObtenerDiagonalPrincipal.dll
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/bin/Debug/net7.0/13_Ibarra_ObtenerDiagonalPrincipal.pdb
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/obj/Debug/net7.0/13_Ibarra_ObtenerDiagonalPrincipal.dll
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/obj/Debug/net7.0/refint/13_Ibarra_ObtenerDiagonalPrincipal.dll
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/obj/Debug/net7.0/13_Ibarra_ObtenerDiagonalPrincipal.pdb
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/obj/Debug/net7.0/13_Ibarra_ObtenerDiagonalPrincipal.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa2/13_Ibarra_ObtenerDiagonalPrincipal/obj/Debug/net7.0/ref/13_Ibarra_ObtenerDiagonalPrincipal.dll
