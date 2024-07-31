@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/bin/Debug/net7.0/12_Ibarra_RotarMatriz90
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/bin/Debug/net7.0/12_Ibarra_RotarMatriz90.deps.json
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/bin/Debug/net7.0/12_Ibarra_RotarMatriz90.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/bin/Debug/net7.0/12_Ibarra_RotarMatriz90.dll
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/bin/Debug/net7.0/12_Ibarra_RotarMatriz90.pdb
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/obj/Debug/net7.0/12_Ibarra_RotarMatriz90.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/obj/Debug/net7.0/12_Ibarra_RotarMatriz90.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/obj/Debug/net7.0/12_Ibarra_RotarMatriz90.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/obj/Debug/net7.0/12_Ibarra_RotarMatriz90.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/obj/Debug/net7.0/12_Ibarra_RotarMatriz90.dll
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/obj/Debug/net7.0/refint/12_Ibarra_RotarMatriz90.dll
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/obj/Debug/net7.0/12_Ibarra_RotarMatriz90.pdb
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/obj/Debug/net7.0/12_Ibarra_RotarMatriz90.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa2/12_Ibarra_RotarMatriz90/obj/Debug/net7.0/ref/12_Ibarra_RotarMatriz90.dll
