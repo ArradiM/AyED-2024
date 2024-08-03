@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/bin/Debug/net7.0/tp_pochidex
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/bin/Debug/net7.0/tp_pochidex.deps.json
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/bin/Debug/net7.0/tp_pochidex.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/bin/Debug/net7.0/tp_pochidex.dll
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/bin/Debug/net7.0/tp_pochidex.pdb
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/obj/Debug/net7.0/tp_pochidex.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/obj/Debug/net7.0/tp_pochidex.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/obj/Debug/net7.0/tp_pochidex.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/obj/Debug/net7.0/tp_pochidex.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/obj/Debug/net7.0/tp_pochidex.dll
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/obj/Debug/net7.0/refint/tp_pochidex.dll
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/obj/Debug/net7.0/tp_pochidex.pdb
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/obj/Debug/net7.0/tp_pochidex.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa2/tp_pochidex/obj/Debug/net7.0/ref/tp_pochidex.dll
