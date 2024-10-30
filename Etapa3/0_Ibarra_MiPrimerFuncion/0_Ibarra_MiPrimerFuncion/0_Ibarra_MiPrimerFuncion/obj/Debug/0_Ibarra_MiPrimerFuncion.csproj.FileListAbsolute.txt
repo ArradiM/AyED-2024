@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Etapa3\0_Ibarra_MiPrimerFuncion\0_Ibarra_MiPrimerFuncion\0_Ibarra_MiPrimerFuncion\bin\Debug\0_Ibarra_MiPrimerFuncion.exe.config
+C:\Users\alumno.ET37\Downloads\Etapa3\0_Ibarra_MiPrimerFuncion\0_Ibarra_MiPrimerFuncion\0_Ibarra_MiPrimerFuncion\bin\Debug\0_Ibarra_MiPrimerFuncion.exe
+C:\Users\alumno.ET37\Downloads\Etapa3\0_Ibarra_MiPrimerFuncion\0_Ibarra_MiPrimerFuncion\0_Ibarra_MiPrimerFuncion\bin\Debug\0_Ibarra_MiPrimerFuncion.pdb
+C:\Users\alumno.ET37\Downloads\Etapa3\0_Ibarra_MiPrimerFuncion\0_Ibarra_MiPrimerFuncion\0_Ibarra_MiPrimerFuncion\obj\Debug\0_Ibarra_MiPrimerFuncion.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Etapa3\0_Ibarra_MiPrimerFuncion\0_Ibarra_MiPrimerFuncion\0_Ibarra_MiPrimerFuncion\obj\Debug\0_Ibarra_MiPrimerFuncion.exe
+C:\Users\alumno.ET37\Downloads\Etapa3\0_Ibarra_MiPrimerFuncion\0_Ibarra_MiPrimerFuncion\0_Ibarra_MiPrimerFuncion\obj\Debug\0_Ibarra_MiPrimerFuncion.pdb
