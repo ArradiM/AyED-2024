@@ -22,7 +22,7 @@ namespace _1_Ibarra_SistemaDeConversiones
             return binario;
         }
 
-        static s
+        
         static void Main(string[] args)
         {
             Console.WriteLine("Ingrese numero decimal ");
