@@ -1,0 +1,17 @@
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\bin\Debug\net8.0-windows\4_Ibarra_CreadorPersonajeRol.exe
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\bin\Debug\net8.0-windows\4_Ibarra_CreadorPersonajeRol.deps.json
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\bin\Debug\net8.0-windows\4_Ibarra_CreadorPersonajeRol.runtimeconfig.json
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\bin\Debug\net8.0-windows\4_Ibarra_CreadorPersonajeRol.dll
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\bin\Debug\net8.0-windows\4_Ibarra_CreadorPersonajeRol.pdb
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\obj\Debug\net8.0-windows\_4_Ibarra_CreadorPersonajeRol.Form1.resources
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\obj\Debug\net8.0-windows\_4_Ibarra_CreadorPersonajeRol.Form2.resources
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\obj\Debug\net8.0-windows\4_Ibarra_CreadorPersonajeRol.csproj.GenerateResource.cache
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\obj\Debug\net8.0-windows\4_Ibarra_CreadorPersonajeRol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\obj\Debug\net8.0-windows\4_Ibarra_CreadorPersonajeRol.AssemblyInfoInputs.cache
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\obj\Debug\net8.0-windows\4_Ibarra_CreadorPersonajeRol.AssemblyInfo.cs
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\obj\Debug\net8.0-windows\4_Ibarra_CreadorPersonajeRol.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\obj\Debug\net8.0-windows\4_Ibarra_CreadorPersonajeRol.dll
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\obj\Debug\net8.0-windows\refint\4_Ibarra_CreadorPersonajeRol.dll
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\obj\Debug\net8.0-windows\4_Ibarra_CreadorPersonajeRol.pdb
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\obj\Debug\net8.0-windows\4_Ibarra_CreadorPersonajeRol.genruntimeconfig.cache
+C:\Users\Johanna\source\repos\4_Ibarra_CreadorPersonajeRol\4_Ibarra_CreadorPersonajeRol\obj\Debug\net8.0-windows\ref\4_Ibarra_CreadorPersonajeRol.dll
