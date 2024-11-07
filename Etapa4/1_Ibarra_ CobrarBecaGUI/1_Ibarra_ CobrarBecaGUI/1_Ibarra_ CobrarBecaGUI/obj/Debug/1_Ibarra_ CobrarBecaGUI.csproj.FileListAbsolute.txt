@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Downloads\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\bin\Debug\1_Ibarra_ CobrarBecaGUI.exe.config
+C:\Users\alumno.ET37\Downloads\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\obj\Debug\1_Ibarra_ CobrarBecaGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\obj\Debug\_1_Ibarra__CobrarBecaGUI.Form1.resources
+C:\Users\alumno.ET37\Downloads\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\obj\Debug\_1_Ibarra__CobrarBecaGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Downloads\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\obj\Debug\1_Ibarra_ CobrarBecaGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Downloads\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\bin\Debug\1_Ibarra_ CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Downloads\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\bin\Debug\1_Ibarra_ CobrarBecaGUI.pdb
+C:\Users\alumno.ET37\Downloads\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\obj\Debug\1_Ibarra_ CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Downloads\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\1_Ibarra_ CobrarBecaGUI\obj\Debug\1_Ibarra_ CobrarBecaGUI.pdb
