@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/bin/Debug/net7.0/4_Ibarra_DibuAventuras
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/bin/Debug/net7.0/4_Ibarra_DibuAventuras.deps.json
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/bin/Debug/net7.0/4_Ibarra_DibuAventuras.runtimeconfig.json
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/bin/Debug/net7.0/4_Ibarra_DibuAventuras.dll
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/bin/Debug/net7.0/4_Ibarra_DibuAventuras.pdb
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/obj/Debug/net7.0/4_Ibarra_DibuAventuras.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/obj/Debug/net7.0/4_Ibarra_DibuAventuras.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/obj/Debug/net7.0/4_Ibarra_DibuAventuras.AssemblyInfo.cs
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/obj/Debug/net7.0/4_Ibarra_DibuAventuras.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/obj/Debug/net7.0/4_Ibarra_DibuAventuras.dll
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/obj/Debug/net7.0/refint/4_Ibarra_DibuAventuras.dll
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/obj/Debug/net7.0/4_Ibarra_DibuAventuras.pdb
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/obj/Debug/net7.0/4_Ibarra_DibuAventuras.genruntimeconfig.cache
+/home/estudiante/Escritorio/4_Ibarra_DibuAventuras/obj/Debug/net7.0/ref/4_Ibarra_DibuAventuras.dll

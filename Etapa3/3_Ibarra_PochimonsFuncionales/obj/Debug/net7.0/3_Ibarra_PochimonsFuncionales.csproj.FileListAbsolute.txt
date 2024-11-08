@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/bin/Debug/net7.0/3_Ibarra_PochimonsFuncionales
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/bin/Debug/net7.0/3_Ibarra_PochimonsFuncionales.deps.json
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/bin/Debug/net7.0/3_Ibarra_PochimonsFuncionales.runtimeconfig.json
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/bin/Debug/net7.0/3_Ibarra_PochimonsFuncionales.dll
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/bin/Debug/net7.0/3_Ibarra_PochimonsFuncionales.pdb
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/obj/Debug/net7.0/3_Ibarra_PochimonsFuncionales.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/obj/Debug/net7.0/3_Ibarra_PochimonsFuncionales.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/obj/Debug/net7.0/3_Ibarra_PochimonsFuncionales.AssemblyInfo.cs
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/obj/Debug/net7.0/3_Ibarra_PochimonsFuncionales.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/obj/Debug/net7.0/3_Ibarra_PochimonsFuncionales.dll
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/obj/Debug/net7.0/refint/3_Ibarra_PochimonsFuncionales.dll
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/obj/Debug/net7.0/3_Ibarra_PochimonsFuncionales.pdb
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/obj/Debug/net7.0/3_Ibarra_PochimonsFuncionales.genruntimeconfig.cache
+/home/estudiante/Escritorio/3_Ibarra_PochimonsFuncionales/obj/Debug/net7.0/ref/3_Ibarra_PochimonsFuncionales.dll
