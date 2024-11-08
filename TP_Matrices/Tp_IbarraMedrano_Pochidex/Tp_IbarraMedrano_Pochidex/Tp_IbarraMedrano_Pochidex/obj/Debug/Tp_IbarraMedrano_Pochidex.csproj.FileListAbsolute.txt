@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Tp_IbarraMedrano_Pochidex\Tp_IbarraMedrano_Pochidex\Tp_IbarraMedrano_Pochidex\bin\Debug\Tp_IbarraMedrano_Pochidex.exe.config
+C:\Users\alumno.ET37\Downloads\Tp_IbarraMedrano_Pochidex\Tp_IbarraMedrano_Pochidex\Tp_IbarraMedrano_Pochidex\bin\Debug\Tp_IbarraMedrano_Pochidex.exe
+C:\Users\alumno.ET37\Downloads\Tp_IbarraMedrano_Pochidex\Tp_IbarraMedrano_Pochidex\Tp_IbarraMedrano_Pochidex\bin\Debug\Tp_IbarraMedrano_Pochidex.pdb
+C:\Users\alumno.ET37\Downloads\Tp_IbarraMedrano_Pochidex\Tp_IbarraMedrano_Pochidex\Tp_IbarraMedrano_Pochidex\obj\Debug\Tp_IbarraMedrano_Pochidex.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Tp_IbarraMedrano_Pochidex\Tp_IbarraMedrano_Pochidex\Tp_IbarraMedrano_Pochidex\obj\Debug\Tp_IbarraMedrano_Pochidex.exe
+C:\Users\alumno.ET37\Downloads\Tp_IbarraMedrano_Pochidex\Tp_IbarraMedrano_Pochidex\Tp_IbarraMedrano_Pochidex\obj\Debug\Tp_IbarraMedrano_Pochidex.pdb
