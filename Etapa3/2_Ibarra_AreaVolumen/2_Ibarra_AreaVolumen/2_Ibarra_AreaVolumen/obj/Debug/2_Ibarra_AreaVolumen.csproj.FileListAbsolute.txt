@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Downloads\2_Ibarra_AreaVolumen\2_Ibarra_AreaVolumen\2_Ibarra_AreaVolumen\bin\Debug\2_Ibarra_AreaVolumen.exe.config
-C:\Users\alumno.ET37\Downloads\2_Ibarra_AreaVolumen\2_Ibarra_AreaVolumen\2_Ibarra_AreaVolumen\bin\Debug\2_Ibarra_AreaVolumen.exe
-C:\Users\alumno.ET37\Downloads\2_Ibarra_AreaVolumen\2_Ibarra_AreaVolumen\2_Ibarra_AreaVolumen\bin\Debug\2_Ibarra_AreaVolumen.pdb
-C:\Users\alumno.ET37\Downloads\2_Ibarra_AreaVolumen\2_Ibarra_AreaVolumen\2_Ibarra_AreaVolumen\obj\Debug\2_Ibarra_AreaVolumen.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Downloads\2_Ibarra_AreaVolumen\2_Ibarra_AreaVolumen\2_Ibarra_AreaVolumen\obj\Debug\2_Ibarra_AreaVolumen.exe
-C:\Users\alumno.ET37\Downloads\2_Ibarra_AreaVolumen\2_Ibarra_AreaVolumen\2_Ibarra_AreaVolumen\obj\Debug\2_Ibarra_AreaVolumen.pdb
