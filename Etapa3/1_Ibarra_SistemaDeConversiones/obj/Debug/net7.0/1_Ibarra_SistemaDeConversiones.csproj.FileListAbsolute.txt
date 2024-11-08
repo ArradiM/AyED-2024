@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/bin/Debug/net7.0/1_Ibarra_SistemaDeConversiones
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/bin/Debug/net7.0/1_Ibarra_SistemaDeConversiones.deps.json
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/bin/Debug/net7.0/1_Ibarra_SistemaDeConversiones.runtimeconfig.json
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/bin/Debug/net7.0/1_Ibarra_SistemaDeConversiones.dll
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/bin/Debug/net7.0/1_Ibarra_SistemaDeConversiones.pdb
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/obj/Debug/net7.0/1_Ibarra_SistemaDeConversiones.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/obj/Debug/net7.0/1_Ibarra_SistemaDeConversiones.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/obj/Debug/net7.0/1_Ibarra_SistemaDeConversiones.AssemblyInfo.cs
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/obj/Debug/net7.0/1_Ibarra_SistemaDeConversiones.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/obj/Debug/net7.0/1_Ibarra_SistemaDeConversiones.dll
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/obj/Debug/net7.0/refint/1_Ibarra_SistemaDeConversiones.dll
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/obj/Debug/net7.0/1_Ibarra_SistemaDeConversiones.pdb
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/obj/Debug/net7.0/1_Ibarra_SistemaDeConversiones.genruntimeconfig.cache
+/home/estudiante/Escritorio/Etapa3/1_Ibarra_SistemaDeConversiones/obj/Debug/net7.0/ref/1_Ibarra_SistemaDeConversiones.dll
