@@ -1,0 +1,14 @@
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/bin/Debug/net7.0/2_Ibarra_AreaVolumen
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/bin/Debug/net7.0/2_Ibarra_AreaVolumen.deps.json
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/bin/Debug/net7.0/2_Ibarra_AreaVolumen.runtimeconfig.json
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/bin/Debug/net7.0/2_Ibarra_AreaVolumen.dll
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/bin/Debug/net7.0/2_Ibarra_AreaVolumen.pdb
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/obj/Debug/net7.0/2_Ibarra_AreaVolumen.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/obj/Debug/net7.0/2_Ibarra_AreaVolumen.AssemblyInfoInputs.cache
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/obj/Debug/net7.0/2_Ibarra_AreaVolumen.AssemblyInfo.cs
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/obj/Debug/net7.0/2_Ibarra_AreaVolumen.csproj.CoreCompileInputs.cache
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/obj/Debug/net7.0/2_Ibarra_AreaVolumen.dll
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/obj/Debug/net7.0/refint/2_Ibarra_AreaVolumen.dll
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/obj/Debug/net7.0/2_Ibarra_AreaVolumen.pdb
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/obj/Debug/net7.0/2_Ibarra_AreaVolumen.genruntimeconfig.cache
+/home/estudiante/Escritorio/2_Ibarra_AreaVolumen/obj/Debug/net7.0/ref/2_Ibarra_AreaVolumen.dll
